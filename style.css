@@ -30,3 +30,12 @@ ul{
     width: 200px;
     border: 1px solid;
 }
+
+table, th, td{
+    border : 1px solid;
+    margin: auto;
+    padding: auto;
+    border-collapse: collapse;
+
+
+}
