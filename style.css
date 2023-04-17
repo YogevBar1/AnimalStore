@@ -24,3 +24,9 @@ ul{
     margin: auto;
     display: inline-block;
 }
+
+img{
+    height: 200px;
+    width: 200px;
+    padding: 50px;
+}
